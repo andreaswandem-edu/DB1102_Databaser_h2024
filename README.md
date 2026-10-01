@@ -2,7 +2,7 @@
 
 > Eksamensperiode: 10.12.2024 (6 timer eksamen)
 >
-> Individuell hjemmeeksamen
+> Eksamensform: Individuell hjemmeeksamen
 >
 > Karakter: **Bestått** (Bestått/Ikke bestått)
 
